@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152367_To_verify_the_Enable_Location_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>59296b87-2c85-4721-8e0f-f28dcbdaaebd</testCaseGuid>
+</TestCaseEntity>

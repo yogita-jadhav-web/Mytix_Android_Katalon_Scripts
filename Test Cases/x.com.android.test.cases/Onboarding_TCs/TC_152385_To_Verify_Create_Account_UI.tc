@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152385_To_Verify_Create_Account_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35e25bd6-adef-4371-9e28-b1cb5c24d6f1</testCaseGuid>
+</TestCaseEntity>

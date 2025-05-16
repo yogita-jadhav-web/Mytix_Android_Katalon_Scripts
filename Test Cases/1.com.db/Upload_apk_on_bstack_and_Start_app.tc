@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Upload_apk_on_bstack_and_Start_app</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2f20e3a-b0de-408e-b8a2-76fb6a40c390</testCaseGuid>
+</TestCaseEntity>

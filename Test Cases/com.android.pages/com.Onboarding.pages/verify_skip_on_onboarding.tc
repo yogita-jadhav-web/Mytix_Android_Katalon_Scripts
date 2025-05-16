@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_skip_on_onboarding</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>51ea5cca-691a-4aeb-9891-38cf2d580dfe</testCaseGuid>
+</TestCaseEntity>

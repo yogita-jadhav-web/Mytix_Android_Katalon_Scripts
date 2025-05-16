@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Start_app_using_bstack_app_url</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9624e4ef-94d2-42af-96e8-34ef6ddf9ca9</testCaseGuid>
+</TestCaseEntity>

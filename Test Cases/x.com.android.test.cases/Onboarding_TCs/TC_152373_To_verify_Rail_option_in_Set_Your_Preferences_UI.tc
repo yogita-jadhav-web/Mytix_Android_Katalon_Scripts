@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152373_To_verify_Rail_option_in_Set_Your_Preferences_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7af2e795-e847-4fc4-a1c6-dd880675d3ec</testCaseGuid>
+</TestCaseEntity>

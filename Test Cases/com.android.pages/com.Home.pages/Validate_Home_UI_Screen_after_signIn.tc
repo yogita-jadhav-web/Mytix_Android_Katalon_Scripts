@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate_Home_UI_Screen_after_signIn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>364a3a76-8a06-4b41-964a-a62fc68bcaf3</testCaseGuid>
+</TestCaseEntity>

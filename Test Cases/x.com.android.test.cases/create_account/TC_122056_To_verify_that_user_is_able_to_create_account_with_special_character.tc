@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_122056_To_verify_that_user_is_able_to_create_account_with_special_character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cccc6cb5-fbea-43e5-af8c-1e67133ddb35</testCaseGuid>
+</TestCaseEntity>

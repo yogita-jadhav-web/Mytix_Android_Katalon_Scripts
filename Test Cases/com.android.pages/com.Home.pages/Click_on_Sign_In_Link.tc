@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_on_Sign_In_Link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ebf4c8c-af38-4c3b-b57d-796f2a2eb4f8</testCaseGuid>
+</TestCaseEntity>

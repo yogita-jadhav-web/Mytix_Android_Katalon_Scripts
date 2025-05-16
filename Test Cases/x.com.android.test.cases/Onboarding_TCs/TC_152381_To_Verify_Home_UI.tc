@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152381_To_Verify_Home_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>273b9e31-f564-472f-a517-a31a5e544d71</testCaseGuid>
+</TestCaseEntity>

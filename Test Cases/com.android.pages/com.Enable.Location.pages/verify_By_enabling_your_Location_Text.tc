@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_By_enabling_your_Location_Text</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12911b33-9416-4c5d-863e-970ff6dbfc16</testCaseGuid>
+</TestCaseEntity>

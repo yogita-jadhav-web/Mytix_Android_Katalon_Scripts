@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Create_account_Screen_popup</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25c1f868-1af8-4eba-9aec-3de815eb1f35</testCaseGuid>
+</TestCaseEntity>

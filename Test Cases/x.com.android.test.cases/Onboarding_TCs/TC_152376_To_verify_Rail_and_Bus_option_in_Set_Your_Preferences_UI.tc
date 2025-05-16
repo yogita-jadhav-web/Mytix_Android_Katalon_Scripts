@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152376_To_verify_Rail_and_Bus_option_in_Set_Your_Preferences_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8063a78-e8d2-4368-a3c5-2878c107bde7</testCaseGuid>
+</TestCaseEntity>

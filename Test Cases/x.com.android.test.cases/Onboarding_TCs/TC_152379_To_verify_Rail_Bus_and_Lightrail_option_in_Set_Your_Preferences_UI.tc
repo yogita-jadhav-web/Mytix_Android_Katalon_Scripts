@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152379_To_verify_Rail_Bus_and_Lightrail_option_in_Set_Your_Preferences_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4fecc753-014b-4fc9-895c-11412b1cfe9b</testCaseGuid>
+</TestCaseEntity>

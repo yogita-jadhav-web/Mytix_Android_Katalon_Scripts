@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152369_To_verify_Dont_Allow_Notification_device_pop_up_in_Enable_Location_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>62959e8f-c23c-40fc-9382-11491a7edd16</testCaseGuid>
+</TestCaseEntity>

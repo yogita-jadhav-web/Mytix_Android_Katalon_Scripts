@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152364_To_verify_the Only_this_time_in_enable_Location_device_pop_up_of_Enable_Location_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d844ebc-fe48-4e7e-9446-3fa559e52070</testCaseGuid>
+</TestCaseEntity>

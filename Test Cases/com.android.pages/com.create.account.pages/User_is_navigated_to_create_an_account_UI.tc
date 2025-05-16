@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User_is_navigated_to_create_an_account_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ed19676-4753-4112-b5a2-88ad110d2684</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Defect_TC_152361_To_Verifiy_skip_button_in_onboarding_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6983c538-87ed-440a-80e6-5336579232bb</testCaseGuid>
+</TestCaseEntity>

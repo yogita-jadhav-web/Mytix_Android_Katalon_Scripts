@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152382_To_Verify_Create_an_account_in_Home_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>14ff3f60-a196-49e3-bff0-7456860cb1d8</testCaseGuid>
+</TestCaseEntity>

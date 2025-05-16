@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152375_To_verify_Lightrail_option_in_Set_Your_Preferences_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4fea93fd-034c-432f-9719-863ca93d45e5</testCaseGuid>
+</TestCaseEntity>

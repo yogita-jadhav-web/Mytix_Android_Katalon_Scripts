@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate_Enable_Location_UI_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1485c95-559d-4cf2-9a60-3f311cfa2dd5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_device_notification_popup_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee8ab0f9-4ad5-4621-b329-77fee6ce15b1</testCaseGuid>
+</TestCaseEntity>

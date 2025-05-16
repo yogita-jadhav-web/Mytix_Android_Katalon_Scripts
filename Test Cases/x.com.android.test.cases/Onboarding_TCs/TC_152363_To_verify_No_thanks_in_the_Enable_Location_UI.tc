@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152363_To_verify_No_thanks_in_the_Enable_Location_UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a40501fd-bf05-4e10-90b0-4ebdca6641a2</testCaseGuid>
+</TestCaseEntity>

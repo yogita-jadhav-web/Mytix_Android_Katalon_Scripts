@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_Welcome to the new NJ TRANSIT Mobile App Onboarding</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c095dc14-55cb-42c9-8948-547a6159f05b</testCaseGuid>
+</TestCaseEntity>

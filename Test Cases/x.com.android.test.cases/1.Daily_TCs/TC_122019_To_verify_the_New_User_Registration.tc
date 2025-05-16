@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_122019_To_verify_the_New_User_Registration</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0aebad83-1356-402b-a13d-7d452fdffd83</testCaseGuid>
+</TestCaseEntity>

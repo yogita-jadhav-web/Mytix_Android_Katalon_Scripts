@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_NJ_Transit_Logo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4cd0122f-529a-410c-b369-3b1382ef6866</testCaseGuid>
+</TestCaseEntity>
