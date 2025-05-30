@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_Update_my_profile_button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79f7f1c5-080d-4367-bc64-d3c183a8d3b9</testCaseGuid>
+</TestCaseEntity>

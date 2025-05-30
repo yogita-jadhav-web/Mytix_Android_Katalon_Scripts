@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_122037_Verification_of_User_Profile_Update</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79f28a3c-c85d-415a-9e18-8a1cd0060b30</testCaseGuid>
+</TestCaseEntity>

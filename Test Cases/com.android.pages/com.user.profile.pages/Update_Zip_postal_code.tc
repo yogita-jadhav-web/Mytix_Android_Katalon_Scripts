@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update_Zip_postal_code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee38dbc2-98f8-47ce-9ae7-a348db15ba96</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update_my_profile_button_disabled</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2808eccd-2d48-4585-93e0-67574b1eab6f</testCaseGuid>
+</TestCaseEntity>

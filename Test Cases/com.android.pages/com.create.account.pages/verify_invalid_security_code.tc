@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_invalid_security_code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>afca4aa0-438d-460f-bc1c-44b437d0e0b3</testCaseGuid>
+</TestCaseEntity>

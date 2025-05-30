@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Clear_all_fields_from_user_profile_screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a510c30-845e-4018-94e9-0eb9f3804f6c</testCaseGuid>
+</TestCaseEntity>

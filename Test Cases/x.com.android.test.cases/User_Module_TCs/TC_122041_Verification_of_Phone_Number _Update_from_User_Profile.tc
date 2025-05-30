@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_122041_Verification_of_Phone_Number _Update_from_User_Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>259b6cd2-fcf2-4c21-8921-5930af5f81a1</testCaseGuid>
+</TestCaseEntity>

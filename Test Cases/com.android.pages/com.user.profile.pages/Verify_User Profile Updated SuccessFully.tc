@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_User Profile Updated SuccessFully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>964c3b06-f92b-487d-8296-e2c8390cf83e</testCaseGuid>
+</TestCaseEntity>

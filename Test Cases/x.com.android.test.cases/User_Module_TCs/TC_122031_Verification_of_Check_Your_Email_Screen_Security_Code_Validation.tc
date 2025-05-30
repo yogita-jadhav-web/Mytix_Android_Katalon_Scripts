@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_122031_Verification_of_Check_Your_Email_Screen_Security_Code_Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f77d8758-6c5b-447c-a26b-95754e1aaadf</testCaseGuid>
+</TestCaseEntity>
