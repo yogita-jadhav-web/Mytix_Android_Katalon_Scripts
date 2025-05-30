@@ -26,6 +26,6 @@ Mobile.verifyElementText(findTestObject('Object Repository/Android/Forgot_passwo
 Mobile.verifyElementExist(findTestObject('Object Repository/Android/Forgot_password_object_repository/android.widget.EditText'), 
     0)
 
-Mobile.verifyElementExist(findTestObject('Object Repository/Android/Forgot_password_object_repository/android.widget.Button'), 
+Mobile.verifyElementExist(findTestObject('Object Repository/Android/Forgot_password_object_repository/android.widget.Button - continue button'), 
     0)
 

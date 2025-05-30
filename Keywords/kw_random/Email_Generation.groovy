@@ -84,8 +84,8 @@ class EmailUtils {
 		// Save to global variable
 		GlobalVariable.Random_Email = email
 		println("Generated Email: " + email)
-		Mobile.setText(findTestObject('Object Repository/Android/create_account_object_repository/android.widget.EditText - Email'),
-				email, 0)
+		//		Mobile.setText(findTestObject('Object Repository/Android/create_account_object_repository/android.widget.EditText - Email'),
+		//				email, 0)
 
 		return email
 	}

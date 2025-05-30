@@ -35,7 +35,9 @@ WebUI.callTestCase(findTestCase('com.android.pages/com.Home.pages/Click_on_creat
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.create.account.pages/Validate_Account_Info_popup'), [:], FailureHandling.STOP_ON_FAILURE)
 
-CustomKeywords.'kw_random.EmailUtils.generateEmailByCondition'('default')
+not_run: CustomKeywords.'kw_random.EmailUtils.generateEmailByCondition'('default')
+
+WebUI.callTestCase(findTestCase('com.android.pages/com.create.account.pages/Enter_Email'), [:], FailureHandling.STOP_ON_FAILURE)
 
 CustomKeywords.'kw_random.PasswordHelper.getPasswordPair'(15)
 

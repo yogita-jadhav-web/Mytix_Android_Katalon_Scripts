@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.create.account.pages/Validate_Account_Info_popup'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.android.pages/com.create.account.pages/Enter_Radom_Email'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.android.pages/com.create.account.pages/Enter_Email'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.create.account.pages/Enter_Password_confirm_password'), [:], FailureHandling.STOP_ON_FAILURE)
 

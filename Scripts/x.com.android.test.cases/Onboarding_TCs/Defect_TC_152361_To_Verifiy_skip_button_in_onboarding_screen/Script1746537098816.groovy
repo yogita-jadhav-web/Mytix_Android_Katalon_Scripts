@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('com.android.pages/com.Onboarding.pages/Start_Application'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('1.com.db/Start_app_using_bstack_app_url'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.Onboarding.pages/Validate_Getting_started_Screen'), [:], FailureHandling.STOP_ON_FAILURE)
 

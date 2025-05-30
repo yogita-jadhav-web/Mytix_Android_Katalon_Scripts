@@ -97,7 +97,7 @@ public class PasswordHelper  {
 		Mobile.setText(findTestObject('Object Repository/Android/create_account_object_repository/android.widget.EditText - password'),
 				password, 0)
 
-	
+
 		Mobile.hideKeyboard()
 	}
 }

@@ -35,9 +35,11 @@ WebUI.callTestCase(findTestCase('com.android.pages/com.Home.pages/Click_on_creat
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.create.account.pages/Validate_Account_Info_popup'), [:], FailureHandling.STOP_ON_FAILURE)
 
-CustomKeywords.'kw_random.EmailUtils.generateEmailByCondition'('default')
+WebUI.callTestCase(findTestCase('com.android.pages/com.create.account.pages/Enter_Email'), [:], FailureHandling.STOP_ON_FAILURE)
 
-CustomKeywords.'kw_random.PasswordHelper.getPasswordPair'(2)
+not_run: CustomKeywords.'kw_random.EmailUtils.generateEmailByCondition'('default')
+
+CustomKeywords.'kw_random.PasswordHelper.getPasswordPair'(1)
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.create.account.pages/Enter_Phone_Number'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -66,7 +68,7 @@ WebUI.callTestCase(findTestCase('com.android.pages/com.Home.pages/Click_On_Menu_
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.change.password.pages/Click_On_Change_password'), [:], FailureHandling.STOP_ON_FAILURE)
 
-CustomKeywords.'kw_random.PasswordHelper.enterPasswordOnly'(2)
+CustomKeywords.'kw_random.PasswordHelper.enterPasswordOnly'(1)
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.sign.in.pages/Click_on_Sign_In'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -74,7 +76,7 @@ WebUI.callTestCase(findTestCase('com.android.pages/com.you.are.all.set.pages/Cli
 
 WebUI.callTestCase(findTestCase('1.com.db/Enter_otp'), [:], FailureHandling.STOP_ON_FAILURE)
 
-CustomKeywords.'kw_random.PasswordHelper.get_New_Confirm_PasswordPair'(1)
+CustomKeywords.'kw_random.PasswordHelper.get_New_Confirm_PasswordPair'(2)
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.create.account.pages/Click_on_Submit_Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -88,7 +90,7 @@ WebUI.callTestCase(findTestCase('com.android.pages/com.sign.out.pages/Signout'),
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.change.password.pages/Click_on_OK'), [:], FailureHandling.STOP_ON_FAILURE)
 
-CustomKeywords.'kw_random.PasswordHelper.enterPasswordOnly'(2)
+CustomKeywords.'kw_random.PasswordHelper.enterPasswordOnly'(1)
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.sign.in.pages/Click_on_Sign_In'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -99,7 +101,7 @@ Mobile.clearText(findTestObject('Object Repository/Android/Sign_In_object_reposi
 
 WebUI.delay(2)
 
-CustomKeywords.'kw_random.PasswordHelper.enterPasswordOnly'(1)
+CustomKeywords.'kw_random.PasswordHelper.enterPasswordOnly'(2)
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.sign.in.pages/Click_on_Sign_In'), [:], FailureHandling.STOP_ON_FAILURE)
 

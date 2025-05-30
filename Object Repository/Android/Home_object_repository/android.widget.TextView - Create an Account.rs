@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.TextView - Create an Account</name>
    <tag></tag>
-   <elementGuidId>c3f7079b-0e51-4b4e-81f9-279bf59d485e</elementGuidId>
+   <elementGuidId>c40694f1-381f-448c-90ac-75fd2ee8c75d</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
-      <webElementGuid>e2b07bf0-3fb2-4091-b944-53fc14cbf415</webElementGuid>
+      <webElementGuid>81541d4b-b771-4115-bc10-30961d043c3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>f1a02aa1-3489-413c-abc2-599ba30e8254</webElementGuid>
+      <webElementGuid>94be17d9-a884-4571-84f8-3d556cae767c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Create an Account</value>
-      <webElementGuid>0db3ade3-9712-40ea-be27-3fae05055781</webElementGuid>
+      <webElementGuid>ded081c7-aa58-4cd6-901f-d4384214e046</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.njtransit.njtapp</value>
-      <webElementGuid>ee6965c2-a0f3-4ec7-9e1f-976bff686d0c</webElementGuid>
+      <webElementGuid>32c78841-c729-4bf6-b6fd-50ea30789447</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3f97674c-2197-4b8f-9d4b-5ffe0276763f</webElementGuid>
+      <webElementGuid>6b29c3a7-16bb-4c3b-9ffd-85d3fece7577</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8c2ae5a5-09df-4ace-9516-d2dc98aa5fe7</webElementGuid>
+      <webElementGuid>d3c2d80a-ec5f-4601-ad97-9c6e39f954c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2d7896c7-9ac1-4098-bdad-d57c4cf1e71b</webElementGuid>
+      <webElementGuid>9c7b56b7-ff25-40de-a9de-93a25194aec6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4d88f42f-5522-4fcf-886e-a8c8b7358058</webElementGuid>
+      <webElementGuid>6053b184-d73f-4d27-b8a5-a693bb6cc808</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e30e000b-6e24-412b-ab88-4146a3998b3c</webElementGuid>
+      <webElementGuid>5fef59f1-e36f-4d00-a54d-58c1a9d8a145</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3686a07a-e976-4a3a-9446-2c05aa7aac76</webElementGuid>
+      <webElementGuid>6d382436-3a6d-430f-8fb1-c826488c2b7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>54c48efa-646d-4c65-b1b9-0d68f4591f53</webElementGuid>
+      <webElementGuid>7c8b903c-18f6-4daa-bc63-411337805e76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1093f5fa-d915-43c3-b7bf-1135a4cc6a87</webElementGuid>
+      <webElementGuid>86cd8999-36c4-4e90-96b7-98ef4f707f0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8b3de0c9-61b8-4dae-affb-b230a242fbf3</webElementGuid>
+      <webElementGuid>cf22bd1f-b45b-4be1-a8bf-5cf0b2fc5ef4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>450f735e-7349-400b-b2a4-55ffaa2599eb</webElementGuid>
+      <webElementGuid>8620d4ce-8a13-430f-92c8-80a3041ea834</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>x</name>
       <type>Main</type>
       <value>248</value>
-      <webElementGuid>9bf5aee7-4c16-4a96-a080-92031915c95e</webElementGuid>
+      <webElementGuid>8e4113f4-8081-4ca8-af00-9798bb5adab2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>y</name>
       <type>Main</type>
       <value>556</value>
-      <webElementGuid>35a60c0f-8853-48b7-8743-b7af9c4f87ae</webElementGuid>
+      <webElementGuid>84b13a72-d5da-40ce-bb74-ef213c2b3c9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>width</name>
       <type>Main</type>
       <value>372</value>
-      <webElementGuid>e7d9d570-fda9-46f0-ba8d-37ac2d5f0dda</webElementGuid>
+      <webElementGuid>841a4e50-f03e-4025-a9a5-35ef2624f173</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>height</name>
       <type>Main</type>
       <value>144</value>
-      <webElementGuid>0daeac4e-0bb0-44e0-ab50-6255f0b11718</webElementGuid>
+      <webElementGuid>05bf9ef3-3ecc-4540-b700-5b8b35273d89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[248,556][620,700]</value>
-      <webElementGuid>24655c8d-a183-421c-9e8c-d990221ffa2a</webElementGuid>
+      <webElementGuid>27681f73-e8e3-4b46-9b39-6c65d8786d55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2afd6f61-f963-4a98-bc66-2d102e6b7228</webElementGuid>
+      <webElementGuid>f084ecd3-1260-48aa-9b0e-b206dbf0222e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,20 +173,12 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/d2.q1[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.TextView[4]</value>
-      <webElementGuid>6343626f-e40e-44b2-a8d0-a4db58b7f909</webElementGuid>
+      <webElementGuid>681cc7ce-6bfc-468e-abe8-0ff1e49a6321</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.TextView' and (@text = 'Create an Account' or . = 'Create an Account')]</locator>
+   <locator>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/d2.q1[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.TextView[4]</locator>
    <locatorCollection>
       <entry>
-         <key>ID</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value>**[`enabled == 1`]</value>
-      </entry>
-      <entry>
-         <key>CUSTOM</key>
+         <key>NAME</key>
          <value></value>
       </entry>
       <entry>
@@ -194,8 +186,24 @@
          <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/d2.q1[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.TextView[4]</value>
       </entry>
       <entry>
-         <key>ACCESSIBILITY</key>
+         <key>CUSTOM</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'android.widget.TextView' and (@text = 'Create an Account' or . = 'Create an Account')]</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().className(&quot;android.widget.TextView&quot;).text(&quot;Create an Account&quot;).packageName(&quot;com.njtransit.njtapp&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(3)</value>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
@@ -206,26 +214,18 @@
          <value></value>
       </entry>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.TextView' and (@text = 'Create an Account' or . = 'Create an Account')]</value>
-      </entry>
-      <entry>
-         <key>NAME</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.TextView&quot;).text(&quot;Create an Account&quot;).packageName(&quot;com.njtransit.njtapp&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(3)</value>
-      </entry>
-      <entry>
          <key>CLASS_NAME</key>
          <value>android.widget.TextView</value>
       </entry>
       <entry>
-         <key>ANDROID_VIEWTAG</key>
+         <key>ACCESSIBILITY</key>
          <value></value>
       </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**[`enabled == 1`]</value>
+      </entry>
    </locatorCollection>
-   <locatorStrategy>ATTRIBUTES</locatorStrategy>
+   <locatorStrategy>XPATH</locatorStrategy>
    <platform>ANDROID</platform>
 </MobileElementEntity>

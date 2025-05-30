@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.TextView - Forgot your password</name>
    <tag></tag>
-   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
+   <elementGuidId>2541e0c3-c819-49a0-93b5-900407c52f9d</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
-      <webElementGuid>5ef51907-feb7-455c-90a7-e5ba49bcebeb</webElementGuid>
+      <webElementGuid>d2b37a43-c7c5-4dbe-8212-c663bd16ad7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>9106f7d1-541c-4d40-99bd-2f697cd8264a</webElementGuid>
+      <webElementGuid>562d201e-31c1-4e6b-84c2-84bb705ac221</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Forgot your password?</value>
-      <webElementGuid>10e70bdb-c5c1-4f10-853c-74d576a7f0e9</webElementGuid>
+      <webElementGuid>7939c84a-bce9-4755-8366-ff1fdf968694</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.njtransit.njtapp</value>
-      <webElementGuid>1eb1dce8-a542-4e5d-b1fe-e6ecd92a1175</webElementGuid>
+      <webElementGuid>22e9e93c-58fa-4290-a10c-8e6d1b45c29c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2c4664ed-e3cc-44a2-b164-2cdb03c5d8dd</webElementGuid>
+      <webElementGuid>cb7a2fb8-0e15-4f6b-9b2e-89e236b536c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>65b00879-b9cd-4c74-9554-34c86ae79359</webElementGuid>
+      <webElementGuid>4d34bdaa-4a64-42f7-a93d-b91b3e9ceb75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c1db07d1-f20d-4a41-9556-6e9c66845920</webElementGuid>
+      <webElementGuid>f28ebdc9-1882-412f-999a-03115f3e41c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>55512d99-1ed6-4948-96e3-61426fde44cc</webElementGuid>
+      <webElementGuid>619ffd5d-521c-4261-a735-8d322fbdb160</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9d5aab4c-496c-4249-b701-a0e46bd0e69c</webElementGuid>
+      <webElementGuid>22f07106-1593-4b1d-b401-a4dc70ac9508</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>acee1ea1-a8af-4bba-8f47-66c3a90c7d04</webElementGuid>
+      <webElementGuid>72af2f8d-b1b8-4922-960f-67060c6cf6cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6a3f7305-853b-4ce6-a80a-d5dc9d09ba27</webElementGuid>
+      <webElementGuid>1d7832b7-14b2-46f7-8e61-21f4648bebec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>aa447729-f34a-45f5-bd8c-80ad8067d58e</webElementGuid>
+      <webElementGuid>3b4504b1-80b4-4066-add8-6feb09a1668f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>07752d72-5617-4364-98e6-7818936fdf47</webElementGuid>
+      <webElementGuid>24c7537a-f125-4166-9ff6-80653244b9dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>32f75455-f227-44b1-9221-bc3c18fa9a6f</webElementGuid>
+      <webElementGuid>2ee8e46c-60f7-472f-b29e-6e2af1821e99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>x</name>
       <type>Main</type>
       <value>328</value>
-      <webElementGuid>540286ff-432c-4fb1-99e8-56da117de4af</webElementGuid>
+      <webElementGuid>102eee7e-c557-4a21-a46e-284d241ce7cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>y</name>
       <type>Main</type>
       <value>1430</value>
-      <webElementGuid>ca623a82-8de3-4329-9619-684e84dce038</webElementGuid>
+      <webElementGuid>a81c28d9-dbd6-478b-a3e1-7f64c992a4c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>width</name>
       <type>Main</type>
       <value>425</value>
-      <webElementGuid>face2428-121f-4482-996c-6f5c85dd097d</webElementGuid>
+      <webElementGuid>b191d3ad-2b58-482b-9cb4-e4d079597e5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>height</name>
       <type>Main</type>
       <value>47</value>
-      <webElementGuid>f73af90c-fc2e-439e-ae3b-0b290878e6b9</webElementGuid>
+      <webElementGuid>ac6fb9c5-71c2-4fb2-8e72-25e9d88994ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[328,1430][753,1477]</value>
-      <webElementGuid>290d09fc-7d8d-4b3d-9e9d-6e67d5337053</webElementGuid>
+      <webElementGuid>515fa63d-8e2c-468e-8ac0-cdd686968f52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>bbe61f4a-b65e-4fdf-9f88-b690eb312550</webElementGuid>
+      <webElementGuid>f8679115-cb7a-4138-a4f6-07d8f805b95d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,37 +173,29 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/d2.q1[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.widget.TextView[1]</value>
-      <webElementGuid>2b243875-466b-4468-8b8c-8a3965586213</webElementGuid>
+      <webElementGuid>16f5780c-40e4-4094-83c9-e8d7c6509c2d</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.TextView' and (@text = 'Forgot your password?' or . = 'Forgot your password?')]</locator>
+   <locator>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/d2.q1[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.widget.TextView[1]</locator>
    <locatorCollection>
       <entry>
-         <key>ID</key>
+         <key>CUSTOM</key>
          <value></value>
       </entry>
       <entry>
-         <key>IOS_CLASS_CHAIN</key>
+         <key>IMAGE</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.TextView' and (@text = 'Forgot your password?' or . = 'Forgot your password?')]</value>
       </entry>
       <entry>
          <key>NAME</key>
          <value></value>
       </entry>
       <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
          <value>new UiSelector().className(&quot;android.widget.TextView&quot;).text(&quot;Forgot your password?&quot;).packageName(&quot;com.njtransit.njtapp&quot;).enabled(true).clickable(false).longClickable(false).checkable(false).checked(false).focusable(false).focused(false).scrollable(false).selected(false).index(0)</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/d2.q1[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.widget.TextView[1]</value>
-      </entry>
-      <entry>
-         <key>CUSTOM</key>
-         <value></value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
@@ -214,18 +206,26 @@
          <value></value>
       </entry>
       <entry>
-         <key>ANDROID_VIEWTAG</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>IOS_PREDICATE_STRING</key>
-         <value></value>
+         <value>enabled == 1</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'android.widget.TextView' and (@text = 'Forgot your password?' or . = 'Forgot your password?')]</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**[`enabled == 1`]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/d2.q1[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.widget.TextView[1]</value>
+      </entry>
+      <entry>
+         <key>ID</key>
          <value></value>
       </entry>
    </locatorCollection>
-   <locatorStrategy>ATTRIBUTES</locatorStrategy>
+   <locatorStrategy>XPATH</locatorStrategy>
    <platform>ANDROID</platform>
 </MobileElementEntity>
