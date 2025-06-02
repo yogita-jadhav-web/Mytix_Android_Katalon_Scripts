@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('1.com.db/Start_app_using_bstack_app_url'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.android.pages/com.Onboarding.pages/Start_Application'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.Onboarding.pages/Click_on_Getting_started_Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -31,9 +31,8 @@ WebUI.callTestCase(findTestCase('com.android.pages/com.set.your.prefence.ui.page
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.you.are.all.set.pages/Click_on_Continue_Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.android.pages/com.Home.pages/Click_on_create_an_account_link'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.android.pages/com.Home.pages/Click_on_Sign_In_Link'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.android.pages/com.create.account.pages/Create_account_Field_Validations'), [:], FailureHandling.STOP_ON_FAILURE)
-
-Mobile.closeApplication()
+WebUI.callTestCase(findTestCase('com.android.pages/com.forgot.password.pages/Click_on_Forgot_your_password_link'), [:], 
+    FailureHandling.STOP_ON_FAILURE)
 

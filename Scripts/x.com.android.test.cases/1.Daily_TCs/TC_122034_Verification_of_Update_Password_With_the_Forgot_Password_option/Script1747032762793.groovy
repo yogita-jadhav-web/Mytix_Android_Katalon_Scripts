@@ -72,23 +72,22 @@ WebUI.callTestCase(findTestCase('com.android.pages/com.forgot.password.pages/Ent
 
 WebUI.callTestCase(findTestCase('com.android.pages/com.forgot.password.pages/Click_on_continue_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.callTestCase(findTestCase('com.android.pages/com.user.profile.pages/update_email'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.android.pages/com.user.profile.pages/update_email'), [:], FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.callTestCase(findTestCase('com.android.pages/com.user.profile.pages/Click_Update_my_profile_button'), [:], 
+WebUI.callTestCase(findTestCase('com.android.pages/com.user.profile.pages/Click_Update_my_profile_button'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.android.pages/com.user.profile.pages/Verify_User Profile Updated SuccessFully'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.callTestCase(findTestCase('com.android.pages/com.user.profile.pages/Verify_User Profile Updated SuccessFully'), 
-    [:], FailureHandling.STOP_ON_FAILURE)
+Mobile.tap(findTestObject('Object Repository/Android/User_profile_object_repository/android.widget.Button'), 0)
 
-not_run: Mobile.tap(findTestObject('Object Repository/Android/User_profile_object_repository/android.widget.Button'), 0)
+WebUI.callTestCase(findTestCase('com.android.pages/com.Home.pages/Click_On_Menu_Icon'), [:], FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.callTestCase(findTestCase('com.android.pages/com.Home.pages/Click_On_Menu_Icon'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.android.pages/com.sign.out.pages/Signout'), [:], FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.callTestCase(findTestCase('com.android.pages/com.sign.out.pages/Signout'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.android.pages/com.Home.pages/Click_on_Sign_In_Link'), [:], FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.callTestCase(findTestCase('com.android.pages/com.Home.pages/Click_on_Sign_In_Link'), [:], FailureHandling.STOP_ON_FAILURE)
-
-not_run: CustomKeywords.'kw_random.PasswordHelper.enterPasswordOnly'(1)
+CustomKeywords.'kw_random.PasswordHelper.enterPasswordOnly'(1)
 
 not_run: WebUI.callTestCase(findTestCase('com.android.pages/com.sign.in.pages/Click_on_Sign_In'), [:], FailureHandling.STOP_ON_FAILURE)
 

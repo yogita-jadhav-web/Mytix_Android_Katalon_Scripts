@@ -19,6 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 not_run: Mobile.verifyElementText(findTestObject('null'), 'Password must contain:\n8 to 20 characters\nOne UPPERCASE Letter\nOne lowercase letter\nOne number or numeric value\nOne symbol such as ~"!@#$%^&*()_+=|:<,>.?/{}-')
 
-Mobile.verifyElementText(findTestObject('Object Repository/Android/change_password_object_repository/android.widget.TextView - Password must contain8 to 20 charactersOne UPPERCASE LetterOne lowercase letterOne number or numeric valueOne symbol such as ()_,.-'), 
+Mobile.verifyElementText(findTestObject('Object Repository/Android/change_password_object_repository/android.widget.TextView - Password must contain8 to 20 charactersOne UPPERCASE'), 
     'Password must contain:\n8 to 20 characters\nOne UPPERCASE Letter\nOne lowercase letter\nOne number or numeric value\nOne symbol such as ~"!@#$%^&*()_+=|:<,>.?/{}-')
 

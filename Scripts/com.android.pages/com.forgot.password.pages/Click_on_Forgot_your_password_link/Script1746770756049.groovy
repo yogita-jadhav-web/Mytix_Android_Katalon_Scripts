@@ -17,6 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Mobile.waitForElementPresent(findTestObject('Object Repository/Android/Forgot_password_object_repository/android.widget.TextView - Forgot your password'), 
+    5)
+
 Mobile.tap(findTestObject('Object Repository/Android/Forgot_password_object_repository/android.widget.TextView - Forgot your password'), 
     0)
 

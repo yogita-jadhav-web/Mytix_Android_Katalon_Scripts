@@ -515,4 +515,46 @@
       <testCaseId>Test Cases/x.com.android.test.cases/User_Module_TCs/TC_122102_To_verify_that_user_is_able_to_change_password_with_special_character</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>30c8f5d0-a3a1-48e2-9901-6f77a43bdb2d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/x.com.android.test.cases/User_Module_TCs/TC_122017_To_verify_the_New_User_Registration_UI_Layout</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e8ba6601-eb36-41ca-a7ed-24e2f487b62a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/x.com.android.test.cases/User_Module_TCs/TC_122018_To_verify_the_New_User_Registration_ Field_validation</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>890564d2-b731-4823-a5fd-67081f855651</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/x.com.android.test.cases/User_Module_TCs/TC_122028_Verification_of_update_password_with_the_Change_Password_option</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5314ec41-f080-464d-8f2a-0d7ba386724e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/x.com.android.test.cases/User_Module_TCs/TC_122029_Verification_of_Update_Password_from_Change_Password_using_Security_Code</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0d796916-e2af-4c33-8482-cfbaa4317a6b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/x.com.android.test.cases/User_Module_TCs/TC_122030_Verification_of_Update_Password_from_Change_Password_using_Resend_Code_Security_Code</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5897bd4d-13c0-46f4-82a3-2c8e0496ec25</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/x.com.android.test.cases/User_Module_TCs/TC_122031_Verification_of_Check_Your_Email_Screen_Security_Code_Validation</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

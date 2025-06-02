@@ -19,3 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.tap(findTestObject('Object Repository/Android/Home_object_repository/android.widget.TextView - Sign in'), 0)
 
+WebUI.delay(3)
+
